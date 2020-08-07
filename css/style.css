@@ -17,7 +17,7 @@ body {
   font-size: 1.6rem;
   font-family: "PT Sans", sans-serif;
   color: #ffffff;
-  background-image: url("/sliding-panels-template-master/img/img-4.jpg");
+  background-image: url("../img/img-4.jpg");
 }
 
 a {
